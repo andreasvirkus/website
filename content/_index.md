@@ -28,18 +28,31 @@ Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
 tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
 sequens!
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
+{{< highlight powershell "linenos=inline" >}}
+Function Copy-Object {
+<#
+    .SYNOPSIS
+    Copies given objects by converting to and from JSON
+    which gets around issues of depth (of properties)
+​
+    .NOTES
+    https://stackoverflow.com/a/57045268
+#>
+    [CmdletBinding()]
+    Param(
+        [Parameter(ValueFromPipeline)]
+        [Object[]]$Objects,
+        [Parameter()]
+        [Int]$Depth=100
+    )
+​
+    $Clones = ForEach ($Object in $Objects) {
+        $Object | ConvertTo-Json -Compress -Depth $Depth | ConvertFrom-Json
     }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
+​
+    Return $Clones
+}
+{{< / highlight >}}
 
 ## Locis suis novi cum suoque decidit eadem
 
