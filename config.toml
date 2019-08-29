@@ -7,5 +7,4 @@ enableGitInfo = true
 
 [params]
 BookMenuBundle = '/menu'
-BookSection = 'docs'
 BookRepo = 'https://github.com/usrme/website'
