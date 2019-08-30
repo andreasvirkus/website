@@ -56,7 +56,7 @@ Below you can find both my professional experience and my educational history jo
 - LPI ID: LPI000352151
 - [Verification](https://cs.lpi.org/caf/Xamman/certification) code: vvz4wzjzvv
 
-Topics learned cover all the basic skills that are common to major Linux distributions, such as software installation and package management, scripting, data management, administrative tasks, networking fundamentals and security. More information can be found here and by viewing the individual 101 and 102 exam objectives.
+Topics learned cover all the basic skills that are common to major Linux distributions, such as software installation and package management, scripting, data management, administrative tasks, networking fundamentals and security. More information can be found [here](https://www.lpi.org/our-certifications/lpic-1-overview/) and by viewing the individual [101](https://www.lpi.org/our-certifications/exam-101-objectives/) and [102](https://www.lpi.org/our-certifications/exam-102-objectives/) exam objectives.
 
 ### The Estonian Information Technology College
 
