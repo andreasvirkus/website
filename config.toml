@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Üllar Seerme"
 theme = "book"
 PygmentsStyle = "monokailight"
-enableGitInfo = true
 
 [params]
 BookMenuBundle = '/menu'
