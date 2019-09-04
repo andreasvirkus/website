@@ -1,4 +1,4 @@
 ---
-title: Main
+title: Welcome
 type: posts
 ---
