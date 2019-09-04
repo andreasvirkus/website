@@ -1,3 +1,7 @@
+---
+title: Résumé
+---
+
 # Introduction
 
 I am a 27-year-old guy who hails from Estonia and currently works in Skype as a service engineer for the Availability & Tools team. My day-to-day revolves around creating tooling in Bash, PowerShell and Python to help us reduce toil and increase productivity. 
