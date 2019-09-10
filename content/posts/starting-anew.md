@@ -13,4 +13,6 @@ In the essence of Max Böck's [Good Enough](https://mxb.dev/blog/good-enough/) I
 
 > Perfect is the enemy of good
 
+---
+
 Check out [this post's history](https://github.com/usrme/website/commits/master/content/posts/starting-anew.md) to see how much it has changed. If at all...

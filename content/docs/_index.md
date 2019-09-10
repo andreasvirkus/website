@@ -19,6 +19,7 @@ Below you can find both my professional experience and my educational history jo
 
 ## Experience
 
+{{< expand >}}
 ### Skype/Microsoft
 
 *Service engineer from April 2016–today*
@@ -29,8 +30,8 @@ Below you can find both my professional experience and my educational history jo
 - Uphold best practices by adhering to and creating standards of procedures for various tasks in day-to-day activities as well as documenting anything that might have the danger of being known to only one person
 - Administered VPN gateways, provided assistance to end-users with VPN-related issues, and spearheaded migration to Microsoft's own VPN solution replacing the legacy system
 
-
 ### AS Eesti Telekom
+
 
 *Datacenter hardware management duty technician from April 2014–January 2015 (for 10 months)*
 
@@ -42,7 +43,9 @@ Below you can find both my professional experience and my educational history jo
 
 **Reason for leaving**: to spend the last semester studying abroad in the Technological Educational Institute of Crete
 
+
 ### Hotel Telegraaf
+
 
 *Porter from June 2013–April 2014 (for 10 months)*
 
@@ -52,9 +55,12 @@ Below you can find both my professional experience and my educational history jo
 - Responsible for the clientèle's property left to the wardrobe
 
 **Reason for leaving**: to pursue a new job opportunity that was more in my field of interest
+{{< /expand >}}
 
 ## Education
 
+
+{{< expand >}}
 ### Certified LPIC-1 Linux Server Professional
 
 - LPI ID: LPI000352151
@@ -73,3 +79,4 @@ Participant in the 2014 Erasmus intensive course "Deploying IT Infrastructure So
 ### Tallinn's 32nd High School
 
 *GSE, emphasis on multimedia and mathematics from 2001-2011*
+{{< /expand >}}
