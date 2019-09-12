@@ -41,4 +41,8 @@ I've begun a purge of the subscriptions I have on YouTube, the number of podcast
 
 ---
 
+Intermediary status report! It's too soon to draw any meaningful conclusions, but I am noticing that I am a bit annoyed actually now when I'm listening to podcasts; a part of me really wants me to get back to my own thoughts. I have also seen a far greater emphasis on trying my hardest to be super focused at work, which at the end of the day feels great because I know I have really given it all that I have.
+
+---
+
 Check out [this post's history](https://github.com/usrme/website/commits/master/content/posts/on-thinking-more-and-deeper.md) to see how much it has changed. If at all...

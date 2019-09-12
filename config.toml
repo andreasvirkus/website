@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Üllar Seerme"
 theme = "book"
 PygmentsStyle = "monokailight"
-enableGitInfo = false
-
 [params]
 BookMenuBundle = '/menu'
 BookRepo = 'https://github.com/usrme/website'
