@@ -2,7 +2,7 @@ baseURL = "https://usrme.netlify.com/"
 languageCode = "en-us"
 title = "Üllar Seerme"
 theme = "book"
-PygmentsStyle = "monokailight"
+PygmentsStyle = "api"
 [params]
 BookMenuBundle = '/menu'
 BookRepo = 'https://github.com/usrme/website'

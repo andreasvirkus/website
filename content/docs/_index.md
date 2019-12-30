@@ -2,9 +2,9 @@
 title: Résumé
 ---
 
-# Introduction
+## Introduction
 
-I am a 27-year-old guy who hails from Estonia and currently works in Skype as a service engineer for the Availability & Tools team. My day-to-day revolves around creating tooling in Bash, PowerShell and Python to help us reduce toil and increase productivity. 
+I am a 27-year-old guy who hails from Estonia and currently works in RangeForce as a DevSecOps engineer for the Infrastructure team. My day-to-day revolves around Azure, PowerShell, and automation.
 
 Documenting everything I can is something I thoroughly enjoy as I believe it will make life easier down the road, and it has already paid dividends many times over! Who knew having things written down would save your bacon...
 
@@ -20,47 +20,39 @@ Below you can find both my professional experience and my educational history jo
 ## Experience
 
 {{< expand >}}
+
+### RangeForce
+
+#### DevSecOps engineer from December 2019–today
+
 ### Skype/Microsoft
 
-*Service engineer from April 2016–today*
+#### Service engineer from April 2016–December 2019
 
-- Research and implement automation solutions to improve workflows and ease maintenance across a heterogenous infrastructure
-    - Configuration management system for physical servers running Hyper-V using Chef and Desired State Configuration
-    - PowerShell tooling enabling end users of our infrastructure to have visibility as to when their virtual machines are scheduled for downtime as a part of regular maintenance and enable the ability for them to automatically notify us of any postponements per virtual machine
-- Uphold best practices by adhering to and creating standards of procedures for various tasks in day-to-day activities as well as documenting anything that might have the danger of being known to only one person
+- Researched and implemented automation solutions to improve workflows and ease maintenance across a heterogenous infrastructure
+  - Configuration management system for physical servers running Hyper-V using Chef and Desired State Configuration
+  - PowerShell tooling enabling end users of our infrastructure to have visibility as to when their virtual machines are scheduled for downtime as a part of regular maintenance and enable the ability for them to automatically notify us of any postponements per virtual machine
+- Upheld best practices by adhering to and creating standards of procedures for various tasks in day-to-day activities as well as documenting anything that might have the danger of being known to only one person
 - Administered VPN gateways, provided assistance to end-users with VPN-related issues, and spearheaded migration to Microsoft's own VPN solution replacing the legacy system
 
 ### AS Eesti Telekom
 
+#### Datacenter hardware management duty technician from April 2014–January 2015
 
-*Datacenter hardware management duty technician from April 2014–January 2015 (for 10 months)*
+- Installed physical hardware including cabling (e.g. servers, routers, switches, firewalls, disk arrays, controllers etc.)
+- Did basic systems configuration and management through HP Integrated Lights-Out
+  - Scripting with Bash and PowerShell
+- Monitored servers and services across multiple data centers with Opsview
+  - Wrote documentation to improve future work
 
-- Installing physical hardware including cabling (e.g. servers, routers, switches, firewalls, disk arrays, controllers etc.)
-- Basic systems configuration and management through HP Integrated Lights-Out
-    - Scripting with Bash and PowerShell
-- Monitoring servers and services across multiple data centers with Opsview
-    - Writing documentation to improve future work
+**Reason for leaving**: to spend the last semester of college studying abroad in the Technological Educational Institute of Crete
 
-**Reason for leaving**: to spend the last semester studying abroad in the Technological Educational Institute of Crete
-
-
-### Hotel Telegraaf
-
-
-*Porter from June 2013–April 2014 (for 10 months)*
-
-- Assist in the carrying of luggage
-- Prepare conference and seminar rooms
-- Provide a valet service to the guests of both restaurant Tchaikovsky and Hotel Telegraaf
-- Responsible for the clientèle's property left to the wardrobe
-
-**Reason for leaving**: to pursue a new job opportunity that was more in my field of interest
 {{< /expand >}}
 
 ## Education
 
-
 {{< expand >}}
+
 ### Certified LPIC-1 Linux Server Professional
 
 - LPI ID: LPI000352151
@@ -70,11 +62,11 @@ Topics learned cover all the basic skills that are common to major Linux distrib
 
 ### The Estonian Information Technology College
 
-*BSc, majored in IT systems administration from 2011–2015*
+#### BSc, majored in IT systems administration from 2011–2015
 
-Participant in the 2014 Erasmus intensive course "Deploying IT Infrastructure Solutions" with the team project "Visualization of Municipality's Budget"
+- Participated in the 2014 Erasmus intensive course "Deploying IT Infrastructure Solutions" with the team project "Visualization of Municipality's Budget"
 
-**Thesis subject**: Creating Intelligent Storage Systems Study Materials to Renew Course Learning Resources by the Example of the Estonian Information Technology College
+**Thesis subject**: Creating Intelligent Storage Systems Study Materials to Renew Course Learning Resources [by the Example of the Estonian Information Technology College]
 
 ### Tallinn's 32nd High School
 
