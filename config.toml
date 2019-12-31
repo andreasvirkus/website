@@ -1,8 +1,13 @@
 baseURL = "https://usrme.netlify.com/"
 languageCode = "en-us"
 title = "Üllar Seerme"
-theme = "book"
-PygmentsStyle = "api"
-[params]
-BookMenuBundle = '/menu'
-BookRepo = 'https://github.com/usrme/website'
+theme = "whiteplain"
+pygmentsStyle = "github"
+pygmentsCodefences = true
+pygmentsOptions = "linenos=table"
+
+[[menu.main]]
+name = "About"
+identifier = "about"
+url = "/about/"
+weight = 4

@@ -19,11 +19,11 @@ Below you can find both my professional experience and my educational history jo
 
 ## Experience
 
-{{< expand >}}
-
 ### RangeForce
 
 #### DevSecOps engineer from December 2019–today
+
+---
 
 ### Skype/Microsoft
 
@@ -34,6 +34,8 @@ Below you can find both my professional experience and my educational history jo
   - PowerShell tooling enabling end users of our infrastructure to have visibility as to when their virtual machines are scheduled for downtime as a part of regular maintenance and enable the ability for them to automatically notify us of any postponements per virtual machine
 - Upheld best practices by adhering to and creating standards of procedures for various tasks in day-to-day activities as well as documenting anything that might have the danger of being known to only one person
 - Administered VPN gateways, provided assistance to end-users with VPN-related issues, and spearheaded migration to Microsoft's own VPN solution replacing the legacy system
+
+---
 
 ### AS Eesti Telekom
 
@@ -47,11 +49,9 @@ Below you can find both my professional experience and my educational history jo
 
 **Reason for leaving**: to spend the last semester of college studying abroad in the Technological Educational Institute of Crete
 
-{{< /expand >}}
+---
 
 ## Education
-
-{{< expand >}}
 
 ### Certified LPIC-1 Linux Server Professional
 
@@ -59,6 +59,8 @@ Below you can find both my professional experience and my educational history jo
 - [Verification](https://cs.lpi.org/caf/Xamman/certification) code: vvz4wzjzvv
 
 Topics learned cover all the basic skills that are common to major Linux distributions, such as software installation and package management, scripting, data management, administrative tasks, networking fundamentals and security. More information can be found [here](https://www.lpi.org/our-certifications/lpic-1-overview/) and by viewing the individual [101](https://www.lpi.org/our-certifications/exam-101-objectives/) and [102](https://www.lpi.org/our-certifications/exam-102-objectives/) exam objectives.
+
+---
 
 ### The Estonian Information Technology College
 
@@ -68,7 +70,8 @@ Topics learned cover all the basic skills that are common to major Linux distrib
 
 **Thesis subject**: Creating Intelligent Storage Systems Study Materials to Renew Course Learning Resources [by the Example of the Estonian Information Technology College]
 
+---
+
 ### Tallinn's 32nd High School
 
-*GSE, emphasis on multimedia and mathematics from 2001-2011*
-{{< /expand >}}
+#### GSE, emphasis on multimedia and mathematics from 2001-2011

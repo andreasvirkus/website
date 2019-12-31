@@ -7,25 +7,17 @@ I've been an avid podcast listener for about 2-3 years now and if you had asked 
 
 To put some additional context into just how much listening I have done exactly I have some stats at hand thanks to [Podcast Addict's](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) global listening time statistics feature:
 
-{{< columns >}}
+- 2018
+  - Total (hours): 355
+  - Total (days): 14 days 19 hours
+  - Average per week (hours): ~6.8
+  - Average per day (hours): ~0.9
 
-### 2018
-
-- Total (hours): 355
-- Total (days): 14 days 19 hours
-- Average per week (hours): ~6.8
-- Average per day (hours): ~0.9
-
-<--->
-
-### 2019
-
-- Total (hours): 499
-- Total (days): 20 days 19 hours
-- Average per week (hours): ~9.59
-- Average per day (hours): ~1.36
-
-{{< /columns >}}
+- 2019
+  - Total (hours): 499
+  - Total (days): 20 days 19 hours
+  - Average per week (hours): ~9.59
+  - Average per day (hours): ~1.36
 
 The proof is in the proverbial pudding that I do indeed spend a fair bit of time listening. Now to be fair, arguments could be made if that time would have otherwise been wasted being absolutely idle then there was a net gain in terms of additional knowledge (good luck quantifying that...), but the **40% increase** (as of initially posting this) represents a worrying indication that more and more time is being invested into listening, and because of that less time is being spent on thinking about actual things that at the end of the day might matter a heck of a lot more.
 

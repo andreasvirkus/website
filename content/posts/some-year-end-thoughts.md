@@ -3,18 +3,16 @@ date: 2019-12-31
 title: Some year-end thoughts
 ---
 
-In [On thinking more and deeper](https://usrme.netlify.com/posts/on-thinking-more-and-deeper/) I showed some numbers about the hours of listening I do (to podcasts). I thought it would be fun to end off the year with some additional numbers and thoughts:
+In [On thinking more and deeper](https://usrme.netlify.com/posts/on-thinking-more-and-deeper/) I showed some numbers about the hours of listening I do (to podcasts). I thought it would be fun to end off the year with some additional numbers and thoughts.
 
 ## Podcast listening
 
-### 2019
+- Total (hours): 591
+- Total (days): 24 days 15 hours
+- Average per week (hours): ~11.36
+- Average per day (hours): ~1.62
 
-- Total (hours): 587
-- Total (days): 24 days 11 hours
-- Average per week (hours): ~11.28
-- Average per day (hours): ~1.6
-
-A roughly **65% increase** over a year, which is just astonishing to me! As per the aforementioned blog post I have cut down on the listening by trimming a fair amount of shows I subscribe to. Now I have some weeks where there isn't a backlog of things to listen to! This is also greatly helped by me being more careful with my time and not considering every episode worth listening to. I hope to continue to listen to even less!
+A roughly **66% increase** over a year, which is just astonishing to me! As per the aforementioned blog post I have cut down on the listening by trimming a fair amount of shows I subscribe to. Now I have some weeks where there isn't a backlog of things to listen to! This is also greatly helped by me being more careful with my time and not considering every episode worth listening to. I hope to continue to listen to even less!
 
 ## Books read
 
