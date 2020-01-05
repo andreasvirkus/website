@@ -1,8 +1,4 @@
----
-title: Résumé
----
-
-## Introduction
+# Introduction
 
 I am a 27-year-old guy who hails from Estonia and currently works in RangeForce as a DevSecOps engineer for the Infrastructure team. My day-to-day revolves around Azure, PowerShell, and automation.
 
