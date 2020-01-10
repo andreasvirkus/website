@@ -3,7 +3,7 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 title                    = "Üllar Seerme"
 theme                    = "sam"
-pygmentsStyle            = "paraiso-dark"
+pygmentsStyle            = "fruity"
 pygmentsCodefences       = true
 
 [params]
