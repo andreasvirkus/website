@@ -1,22 +1,11 @@
 baseurl                  = "https://usrme.netlify.com/"
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
 title                    = "Üllar Seerme"
-theme                    = "sam"
-pygmentsStyle            = "fruity"
-pygmentsCodefences       = true
+theme                    = "hugo-theme-basic"
 
-[params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    homepage             = "main"
-    footerText           = "Build a world in a teacup."
+[[params.menu]]
+    name = "writing"
+    url = "posts/"
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "writing"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "about"
-
+[[params.menu]]
+    name = "about"
+    url = "about/"
