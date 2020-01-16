@@ -18,3 +18,5 @@ fields:
   config:
     required: true
   label: Title
+pages:
+- content/posts/discovering-what-is-azure-resource-graph.md
