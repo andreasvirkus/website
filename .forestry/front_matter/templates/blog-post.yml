@@ -1,0 +1,22 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    display_utc: false
+    export_format: DD/MM/YYYY hh:mm
+  default: now
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+pages:
+- content/posts/discovering-what-is-azure-resource-graph.md
