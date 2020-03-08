@@ -1,6 +1,5 @@
 +++
 date = 2020-03-08T11:27:00Z
-draft = true
 title = "The thing with taking notes"
 
 +++
