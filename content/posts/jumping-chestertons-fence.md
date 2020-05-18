@@ -1,6 +1,5 @@
 +++
 date = 2020-03-16T06:45:00Z
-draft = true
 title = "Jumping Chesterton's fence"
 
 +++
