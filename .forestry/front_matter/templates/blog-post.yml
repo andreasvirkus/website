@@ -19,5 +19,4 @@ fields:
     required: true
   label: Title
 pages:
-- content/posts/discovering-what-is-azure-resource-graph.md
 - content/posts/the-thing-with-taking-notes.md
