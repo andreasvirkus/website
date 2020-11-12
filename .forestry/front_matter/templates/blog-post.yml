@@ -19,4 +19,5 @@ fields:
     required: true
   label: Title
 pages:
+- content/posts/quickly-generating-patch-files-for-every-changed-file.md
 - content/posts/the-thing-with-taking-notes.md
