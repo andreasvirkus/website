@@ -1,6 +1,5 @@
 +++
 date = 2020-11-12T01:07:00Z
-draft = true
 title = "Quickly generating patch files for every changed file"
 
 +++
