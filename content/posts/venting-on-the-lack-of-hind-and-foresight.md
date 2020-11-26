@@ -35,7 +35,7 @@ In my opinion, there is just so much wrong with mostly everything written there.
 
 ***
 
-I'll be referencing the Estonian government's latest (at the time of writing) restrictions that went into place on November 23rd, which can be seen [here](https://www.kriis.ee/en/news/government-approved-restrictions-prevent-spread-coronavirus).
+I'll be referencing the Estonian government's latest (at the time of writing) restrictions that went into place on November 23rd, which can be seen [here](https://www.kriis.ee/en/news/government-approved-restrictions-prevent-spread-coronavirus), throughout this rebuking.
 
 #### Point 1
 
@@ -49,7 +49,7 @@ Where a "public indoor space" is defined as:
 
 > \[...\] a space intended for public use that can be entered by anyone, regardless of the pre-registration requirement, for example; it is a place with many people who do not come into contact with each other on a daily basis.
 
-Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces because the people in those areas come into contact with each other on a daily basis? Do they only allow in people who come into the gym every day? Do they make sure you only spend time with the same people outside of the gym as you do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather take their workouts elsewhere?
+Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces because the people in those areas come into contact with each other on a daily basis? Do they only allow in the same people who come into the gym every day? Do they make sure you only spend time with the same people outside of the gym as you do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather take their workouts elsewhere?
 
 You might have noticed that I glossed over the very first sentence in the email and that wasn't by accident as I wanted to go over the first point prior to that as that makes the first sentence all the more glaring (emphasis mine):
 
