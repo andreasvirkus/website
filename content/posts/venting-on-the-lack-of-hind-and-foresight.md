@@ -4,7 +4,7 @@ draft = true
 title = "Venting on the lack of hind- and foresight"
 
 +++
-At 2:18 AM on the 25th of November the fitness and training-oriented company [My Fitness AS](https://www.teatmik.ee/en/personlegal/11273563-My-Fitness-AS) sent out an email with a subject that could be translated as "For your safety!❤️" (they couldn't even properly space the emoji apart from the exclamation mark). I have not been able to stop thinking about it after reading that email the following morning, and I feel I have to vent to even possibly begin the process of letting it go.
+At 2:18 AM on the 25th of November the fitness and training-oriented company [My Fitness AS](https://www.teatmik.ee/en/personlegal/11273563-My-Fitness-AS) sent out an email with a subject that could be translated as "For your safety!❤️" (a sign of things to come if they can't even properly use spacing). I have not been able to stop thinking about it after reading that email the following morning, and I feel I have to vent to even possibly begin the process of letting it go.
 
 This would normally result in a personal email to them, but I have zero reasons to believe that would move any meaningful gears within their system seeing as they were dumb enough to even think such a message would even suffice in this day and age.
 
