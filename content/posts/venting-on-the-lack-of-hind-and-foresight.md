@@ -58,3 +58,9 @@ You might have noticed that I glossed over the very first sentence in the email 
 Try to now read their first point without questioning how the hell something like that could have ever made it out in to the open... 
 
 It really does seem like they are having a hard time with wanting to seem compliant in terms of the law, but still wanting to have their own spin on the whole thing. It's the only way you could say something nonsensical like "additional preventive measures based on" and still think you're on the up and up.
+
+***
+
+#### Point 3
+
+> **From 25.11, we will reduce the duration of most training classes to 30 minutes**, in order to spread the workouts and offer different club members the opportunity to participate in group training.
