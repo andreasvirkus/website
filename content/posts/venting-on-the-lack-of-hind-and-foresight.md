@@ -31,7 +31,7 @@ Here is the content of that email, which is hopefully visible [here on their web
 > * The number of group trainings and participants is reduced.
 > * We offer **long opening times**, which helps to disperse the intensity of visits.
 
-In my opinion, there is just so much wrong with mostly everything written there. From their wording, their use of emphasis, and to their utter lack of understanding what had happened before to what will happen in the future if they continue with such _laissez-faire_ practices concerning health and well-being. Let's go through what I find to be so abhorrent.
+In my opinion, there is just so much wrong with mostly everything written there. From their wording, their use of emphasis, and to their utter lack of understanding what had happened before to what will happen in the future if they continue with such _laissez-faire_ practices concerning health and well-being. Let's go through the points I find to be so abhorrent.
 
 ***
 
