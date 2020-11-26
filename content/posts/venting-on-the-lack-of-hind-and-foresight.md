@@ -31,4 +31,30 @@ Here is the content of that email, which is hopefully visible [here on their web
 > * The number of group trainings and participants is reduced.
 > * We offer **long opening times**, which helps to disperse the intensity of visits.
 
-In my opinion, there is just so much wrong with mostly everything written there. From their wording, their use of emphasis, and to their utter lack of understanding what had happened before to what will happen in the future if they continue with such _laissez-faire_ practices concerning health and well-being.
+In my opinion, there is just so much wrong with mostly everything written there. From their wording, their use of emphasis, and to their utter lack of understanding what had happened before to what will happen in the future if they continue with such _laissez-faire_ practices concerning health and well-being. Let's go through what I find to be so abhorrent.
+
+***
+
+I'll be referencing the Estonian government's latest (at the time of writing) restrictions that went into place on November 23rd, which can be seen [here](https://www.kriis.ee/en/news/government-approved-restrictions-prevent-spread-coronavirus).
+
+#### Point 1
+
+> **When entering the club, a mask must be worn in the service area.** The mask is not mandatory in the gym, group trainings, SPA and locker rooms.
+
+Chiefly among the latest government restrictions is:
+
+> An obligation to wear a mask or to cover one's nose and mouth is introduced in public indoor spaces, including public transport and service points.
+
+Where a "public indoor space" is defined as:
+
+> \[...\] a space intended for public use that can be entered by anyone, regardless of the pre-registration requirement, for example; it is a place with many people who do not come into contact with each other on a daily basis.
+
+Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces because the people in those areas come into contact with each other on a daily basis? Do they only allow in people who come into the gym every day? Do they make sure you only spend time with the same people outside of the gym as you do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather take their workouts elsewhere?
+
+You might have noticed that I glossed over the very first sentence in the email and that wasn't by accident as I wanted to go over the first point prior to that as that makes the first sentence all the more glaring (emphasis mine):
+
+> In order to make it safe for all of us to continue **training**
+
+Try to now read their first point without questioning how the hell something like that could have ever made it out in to the open... 
+
+It really does seem like they are having a hard time with wanting to seem compliant in terms of the law, but still wanting to have their own spin on the whole thing. It's the only way you could say something nonsensical like "additional preventive measures based on" and still think you're on the up and up.
