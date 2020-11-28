@@ -92,3 +92,9 @@ Having this as a feel-good highlight in their public announcement just serves, a
 Again with the "we"... At least with this point I can agree half-heartedly as most people do disinfect equipment after training, but almost never before as the assumption seems to be that if everyone does it after their own training, then the disinfection prior isn't necessary.
 
 Sadly all of the equipment isn't even disinfected by the cleaning staff before the club is opened. Maybe the same assumption is being made that surely everyone disinfects after their training, thus time can be saved and disinfection can be foregone.
+
+***
+
+I sincerely hope that it is becoming more clear that they have no regard for anything resembling any kind of meaningful preventative measures outside of just saying they do. 
+
+And I'm still not done! As shown above, the announcement goes on to list more measures they have implemented. All of them seemingly as a result of the government's latest restrictions, but what they fail to mention is that most of them have been in place way before the pandemic. A bad form of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing) for the virus-laden times we live in.
