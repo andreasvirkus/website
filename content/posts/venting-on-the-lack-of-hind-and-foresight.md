@@ -51,11 +51,13 @@ Where a "public indoor space" is defined as:
 
 Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces because the people in those areas come into contact with each other on a daily basis? Do they only allow in the same people who come into the gym every day? Do they make sure you only spend time with the same people outside of the gym as you do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather take their workouts elsewhere?
 
+As an aside: when you go into the club itself, there are absolutely _no_ enforcements to this point. They do not care whatsoever whether you come in with a mask or not. And why would they? Are they really going to turn down people who just need to get from the service area to the wardrobe, a minute's walk away?
+
 You might have noticed that I glossed over the very first sentence in the email and that wasn't by accident as I wanted to go over the first point prior to that as that makes the first sentence all the more glaring (emphasis mine):
 
 > In order to make it safe for all of us to continue **training**
 
-Try to now read their first point without questioning how the hell something like that could have ever made it out in to the open... 
+Try to now read their first point without questioning how the hell something like that could have ever made it out in to the open...
 
 It really does seem like they are having a hard time with wanting to seem compliant in terms of the law, but still wanting to have their own spin on the whole thing. It's the only way you could say something nonsensical like "additional preventive measures based on" and still think you're on the up and up.
 
@@ -64,3 +66,29 @@ It really does seem like they are having a hard time with wanting to seem compli
 #### Point 3
 
 > **From 25.11, we will reduce the duration of most training classes to 30 minutes**, in order to spread the workouts and offer different club members the opportunity to participate in group training.
+
+While I have no bone to pick the portion of the sentence they emphasized, the latter portion stands in that they want to offer different club members the opportunity to participate. All well and good, but if by their own first point they are not mandating _any_ PPE usage, then isn't that opportunity just an opportunity to increase the chance of an infection? After all, nothing is stopping anyone from just signing up their club, registering to a training class, and having a whale of a time without a mask.
+
+#### Point 4
+
+> **We continue to follow the 2 + 2 rule**.
+
+Who is this "we" that they refer to? Are they speaking about their employees? The collective "we, the members and employees of the club"? Totally unclear, and in either case: many hours I have spent at their gyms and I can safely say that not once has this rule been followed, implemented or been enforced in way. 
+
+People mill about in exactly the same way they have before the scourge of the coronavirus. This platitude of "we continue to follow" falls awfully flat when there is literally zero track record of it ever being followed in any capacity.
+
+#### Point 5
+
+> **The use of a training towel is still mandatory** (on the mat, on the bench, on the training device, on the floor).
+
+I'm starting to notice a pattern here where they say something is mandatory, but they don't seem to understand that making something mandatory requires more than just saying the word itself. They have had this practice prior to the world being engulfed with everything coronavirus related and even then this was more of a best practice that some people chose to follow, but most not.
+
+Having this as a feel-good highlight in their public announcement just serves, along with those other points, only to inflate their supposed level of caring in the eyes of the customers, both current and new, but actually does nothing if someone isn't actually making sure that training towels are being used where possible.
+
+#### Point 6
+
+> **We still disinfect equipment before and after training**.
+
+Again with the "we"... At least with this point I can agree half-heartedly as most people do disinfect equipment after training, but almost never before as the assumption seems to be that if everyone does it after their own training, then the disinfection prior isn't necessary.
+
+Sadly all of the equipment isn't even disinfected by the cleaning staff before the club is opened. Maybe the same assumption is being made that surely everyone disinfects after their training, thus time can be saved and disinfection can be foregone.
