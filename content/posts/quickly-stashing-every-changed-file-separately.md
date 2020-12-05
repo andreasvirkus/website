@@ -1,6 +1,5 @@
 +++
 date = 2020-12-05T05:27:00Z
-draft = true
 title = "Quickly stashing every changed file separately"
 
 +++
