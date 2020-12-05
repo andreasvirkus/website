@@ -47,9 +47,9 @@ Where a "public indoor space" is defined as:
 
 > \[...\] a space intended for public use that can be entered by anyone, regardless of the pre-registration requirement, for example; it is a place with many people who do not come into contact with each other on a daily basis.
 
-Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces **because** the people in those areas come into contact with each other on a daily basis? Does that mean they only allow in the same people every day? Do they make sure you only spend time with the same people outside of the gym as you do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather make a point so empty of value than anything more concrete?
+Is it My Fitness' contention that the gym, group trainings, the spa, and locker rooms are **not** public spaces **because** the people in those areas come into contact with each other on a daily basis? Does that mean they only allow in the same people every day? Do they make sure you only spend time with the same people outside of the gym as they do inside? Are they not allowing any new people to sign up who could break this magical herd's immunity? Or, are they just afraid of the inevitable ire of the people who are so opposed to any sort of mask-wearing that they would rather make a point so empty of value than anything more concrete?
 
-As an aside: when you go into the club itself, there are absolutely _no_ enforcements to this point. They do not care whatsoever whether you come in with a mask or not. And why would they? Are they really going to turn down people who just need to get from the service area to the wardrobe, a minute's walk away?
+As an aside: when you go into one of the facilities, there are absolutely _no_ enforcements to this point. They do not care whatsoever whether you come in with a mask or not. And why would they? Are they really going to turn down people who just need to get from the service area to the wardrobe, a minute's walk away?
 
 You might have noticed that I glossed over the very first sentence in the email and that wasn't by accident as I wanted to go over the first point prior to that as that makes the first sentence all the more glaring (emphasis mine):
 
@@ -65,7 +65,7 @@ It really does seem like they are having a hard time with wanting to seem compli
 
 > **From 25.11, we will reduce the duration of most training classes to 30 minutes**, in order to spread the workouts and offer different club members the opportunity to participate in group training.
 
-While I have no bone to pick the portion of the sentence they emphasized, the latter portion stands in that they want to offer different club members the opportunity to participate. All well and good, but if by their own first point they are not mandating _any_ PPE usage, then isn't that opportunity just an opportunity to increase the chance of an infection? After all, nothing is stopping anyone from just signing up their club, registering to a training class, and having a whale of a time without a mask.
+While I have no bone to pick the portion of the sentence they emphasized, the latter portion stands out in that they want to offer different club members the opportunity to participate. All well and good, but if by their own first point they are not mandating _any_ PPE usage, then isn't that "opportunity" just an opportunity to increase the chance of an infection? After all, nothing is stopping anyone from just signing up their club, registering to a training class, and having a whale of a time without a mask.
 
 #### Point 4
 
@@ -81,7 +81,7 @@ This platitude of "we continue to follow" falls awfully flat when there is liter
 
 I'm starting to notice a pattern here where they say something is mandatory, but they don't seem to understand that making something mandatory requires more than just saying the word itself. They have had this practice, if you can call it that, prior to the world being engulfed with everything coronavirus related and even then this was more something some people chose to follow, but most not.
 
-Having this as a feel-good highlight in their public announcement just serves, along with the other points, only to inflate their supposed level of caring in the eyes of the customers, but actually does not do anything if someone isn't actually making sure that training towels are being used wherever possible.
+Having this as a feel-good highlight in their public announcement just serves, along with the other points, to only inflate their supposed level of caring in the eyes of the customers, but actually does not do anything if someone isn't actually making sure that training towels are being used wherever possible.
 
 #### Point 6
 
@@ -131,12 +131,6 @@ See points 5 and 6 above. More pandering.
 
 Okay, this could actually be something worthwhile, but there is no mention anywhere as to what this entails, so how can this be taken to mean anything?
 
-#### Point 14
-
-> The number of group trainings and participants is reduced.
-
-In point no. 3 they also laid out a variant of this, but combined with this it just muddies the waters. With this point they say that it is a preventative measure against the spreading of the virus that they reduce the number of participants, but in point no. 3 they say it allows for a greater number _different_ people to attend. Surely, you would want to minimize the variables in times like these?
-
 #### Point 15
 
 > We offer **long opening times**, which helps to disperse the intensity of visits.
@@ -147,13 +141,13 @@ Sure, long opening times are great for many reasons, but you know would help a h
 
 According to their [filings](https://www.teatmik.ee/en/personlegal/11273563-My-Fitness-AS), My Fitness made roughly 5.4M euros in revenue in Q1 of 2020, which fell to about 1.8M euros in Q2 following the lockdown. That is a difference of more than 65% in a single quarter! During that time they also had to [let go of a large number of employees](https://www.err.ee/1072633/sajad-lepingulised-treenerid-voivad-lahinadalatel-too-kaotada) (in Estonian), including customer service personnel and personal trainers.
 
-It boggles my mind that knowing all of that _and_ with subsequent restrictions looming on the horizon that the head honchos at My Fitness are not willing to put in to practice known methods of combating the virus. Instead, they waste their time with platitudes that serve no one, but the most ignorant among us.
+It boggles my mind that knowing all of that _and_ with subsequent restrictions looming on the horizon that the head honchos at My Fitness are not willing to put in to practice known methods of combating the virus. Instead, they waste their time with platitudes that serve no one but the most ignorant among us.
 
 I don't pretend to know how rosy things could be for them in the future should they opt for a stricter approach, but a big part of me really wants to believe that if they went all out with protecting their members, employees, and themselves in a larger sense, by:
 
 * making mask-wearing mandatory;
 * hiring staff to enforce all that they claim to enforce in every club;
 * having their clubs accredited with levels of cleanliness and safety;
-* and being vocal with all that they do;
+* and being vocal with all of the above;
 
-then could make a substantial case to be an exception to the next lockdown where sports facilities are mandated shut. Wouldn't all of that still be a net benefit to their revenue _and_ image should everything go awry again?
+then they could make a substantial case for their clubs to be an exception to the next lockdown where sports facilities are mandated shut. Wouldn't all of that still be a net benefit to their revenue _and_ image should everything go awry again?
