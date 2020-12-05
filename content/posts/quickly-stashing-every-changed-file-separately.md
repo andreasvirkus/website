@@ -55,7 +55,7 @@ Two parting tidbits if you didn't already know:
 * you can view the patch form of any given entry by executing `git stash show -p [stash@{N}]`, where if you don't provide the optional name of the entry it will default to the one at the top of the list, namely `stash@{0}`:
 
 ```console
-> git stash show stash@{0} -p
+> git stash show -p stash@{0}
 diff --git a/Dockerfile.az b/Dockerfile.az
 index 9342daa..622a007 100644
 --- a/Dockerfile.az
