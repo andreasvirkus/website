@@ -98,6 +98,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Dropped refs/stash@{0} (d8240956a6bb8ca581b0d1d8ab5bda9b9f14441e)
 ```
 
----
+***
 
-I'm slowly starting to feel not _as_ terrible with Git as I used to. Though, please do let me know if you think it's too early for me to think that.
+Thanks to [Jemma Issroff's wonderful blog post](https://jemma.dev/blog/git-stash), which lead me to not be afraid of stashing as much as I was before!
