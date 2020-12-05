@@ -1,6 +1,5 @@
 +++
 date = 2020-11-26T09:29:00Z
-draft = true
 title = "Venting on the lack of hind- and foresight"
 
 +++
