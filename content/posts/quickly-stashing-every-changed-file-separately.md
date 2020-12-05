@@ -100,4 +100,4 @@ Dropped refs/stash@{0} (d8240956a6bb8ca581b0d1d8ab5bda9b9f14441e)
 
 ***
 
-Thanks to [Jemma Issroff's wonderful blog post](https://jemma.dev/blog/git-stash), which lead me to not be afraid of stashing as much as I was before!
+Thanks to [Jemma Issroff's wonderful blog post](https://jemma.dev/blog/git-stash), which lead me to not being afraid of stashing as much as I was before!
