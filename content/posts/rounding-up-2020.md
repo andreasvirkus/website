@@ -10,12 +10,12 @@ This would probably be the part where someone belabors what a year it has been a
 
 When I went to look at my statistics I was a bit shocked to find that [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict), my podcast player of choice, is currently misrepresenting the actual number of days I have listened to in 2019; clocking in 17 days and 8 hours instead of the 24 days and 15 hours I have written down in the aforementioned post. A difference of 42%!
 
-Though I still have that post as a historical record, I feel that if it can't keep its record of a previous year's statistics straight, can it still keep a record of the current year's statistics properly? As I have no way of knowing and can only assume the numbers have shifted due to me unsubscribing from some podcasts, I'll have this post as some sort of proof that can be investigated when and if I some inclination to do so.
+Though I still have that post as a historical record, I feel that if it can't keep its record of a previous year's statistics straight, can it still keep a record of the current year's statistics properly? As I have no way of knowing and can only assume the numbers have shifted due to me unsubscribing from some podcasts, I'll have this post as some sort of proof that can be investigated when and if I have some inclination to do so.
 
 Here are this year's numbers on the last day of the year:
 
-* Total (hours): 521 (UPDATE)
-* Total (days): 21 days 17 hours (UPDATE)
+* Total (hours): 561 (UPDATE)
+* Total (days): 23 days 9 hours (UPDATE)
 * Average per week (hours): total (hours) / 52
 * Average per day (hours): total (hours) / 365
 
@@ -25,11 +25,11 @@ I've thought about that and while I like that I had such a strong desire to bett
 
 ## Books read
 
-Last year's me can keep standing tall on the 24 books he read as this year I only managed to read through 17.
+Last year's me can keep standing tall on the 24 books he read as this year I only managed to read through 17. Something, something about quality versus quantity...
 
 ### "A Random Walk Down Wall Street, 12th Edition" by Burton G. Malkiel
 
-It's hard to not recommend this to anyone interested in their personal financial future. You'll learn all about the theory and practice of investing, what to keep in mind for what occasion, and all of it is presented in a comfortable manner that serves as a sort of reference guide for year's to come.
+It's hard to not recommend this to anyone interested in their personal financial future. You'll learn all about the theory and practice of investing, what to keep in mind for what occasion, and all of it is presented in a comfortable manner that serves as a sort of reference guide for years to come.
 
 ### "Managing Humans, 2nd Edition" by Michael Lopp
 
@@ -37,14 +37,14 @@ As a life-long engineer, though a short life it has thus far been, I've never ev
 
 ### "Expert Python Programming, 3rd Edition" by Michal Jaworski & Tarek Ziade
 
-This year has been phenomenal for me in terms of broadening my understanding of the [Python programming language](). I've probably ingested more material on this topic than any other throughout this year, and this book has been the linchpin of my body of learning materials. It's just astonishing how many areas of the language and the related ecosystem it covers! 
+This year has been phenomenal for me in terms of broadening my understanding of the [Python programming language](). I've probably ingested more material on this topic than any other throughout this year, and this book has been the linchpin of my body of learning materials. It's just astonishing how many areas of the language and the related ecosystem it covers!
 
 I wouldn't recommend it to absolute beginners who are just learning the syntax, but anyone else who wants to elevate their knowledge should absolutely read through this. It can get a little bit dry towards the end, which in my opinion should have been left out, but feel free to gloss over anything irrelevant.
 
 ### "The Nation City" by Rahm Emanuel
 
-**Don't read this, it's a waste of your time!** I picked up this book after listening to the Freakonomics episode [How Rahm Emanuel Would Run the World](https://freakonomics.com/podcast/rahm-emanuel/) and he seemed like such an interesting character that it seemed so obvious that when he puts pen to paper then the result of that would be amazing. It wasn't though. Not in the slightest. The only reason I got through the book was because I have this weird urge to finish every book I start even if it's complete tosh and most likely a huge waste of my time.
+**Don't read this, it's a waste of your time!** I picked up this book after listening to the Freakonomics episode [How Rahm Emanuel Would Run the World](https://freakonomics.com/podcast/rahm-emanuel/) and he seemed like such an interesting character that it seemed so obvious that when he would put pen to paper then the result of that would be amazing. It wasn't though. Not in the slightest. The only reason I got through the book was because I have this weird urge to finish every book I start even if it's complete tosh and most likely a huge waste of my time.
 
-I can only describe this book as a glorification of mayors from around the world with a focus on Chicago. That's it. If that sounds interesting to you then boy, oh boy is the book for you!
+I can only describe this book as a glorification of mayors from around the world with a focus on Chicago. That's it. If that sounds interesting to you then boy, oh boy is this the book for you!
 
 ***
