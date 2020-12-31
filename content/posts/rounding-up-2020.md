@@ -1,6 +1,5 @@
 +++
 date = 2020-12-05T07:26:00Z
-draft = true
 title = "Rounding up 2020"
 
 +++
@@ -14,12 +13,12 @@ Though I still have that post as a historical record, I feel that if it can't ke
 
 Here are this year's numbers on the last day of the year:
 
-* Total (hours): 561 (UPDATE)
-* Total (days): 23 days 9 hours (UPDATE)
-* Average per week (hours): total (hours) / 52
-* Average per day (hours): total (hours) / 365
+* Total (hours): 562
+* Total (days): 23 days 10 hours
+* Average per week (hours): \~10.8
+* Average per day (hours): \~1.53
 
-This is more or less in line with the previous year with no immediately noticeable difference on way or the other. Those of you have read or are about to read my post [on thinking more (and deeper)](https://usrme.xyz/posts/on-thinking-more-and-deeper/) will notice that the total number of hours is still perhaps way too high and seems to be orthogonal to what I wanted to achieve.
+This is more or less in line with the previous year with no discernible difference on way or the other; only about a **5% decline** over a year. Those of you have read or are about to read my post [on thinking more (and deeper)](https://usrme.xyz/posts/on-thinking-more-and-deeper/) will notice that the total number of hours is still perhaps way too high and seems to be orthogonal to what I wanted to achieve.
 
 I've thought about that and while I like that I had such a strong desire to better myself, I now feel that it was a bit short-sighted (easy to say in hindsight) as I did not take into account that there actually may _not_ be something that deep to ponder over every time, to say nothing of my unwaning interest towards what I listen to.
 
