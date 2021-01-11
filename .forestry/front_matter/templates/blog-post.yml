@@ -19,6 +19,7 @@ fields:
     required: true
   label: Title
 pages:
+- content/posts/a-habit-almost-a-year-in.md
 - content/posts/quickly-generating-patch-files-for-every-changed-file.md
 - content/posts/quickly-stashing-every-changed-file-separately.md
 - content/posts/rounding-up-2020.md
